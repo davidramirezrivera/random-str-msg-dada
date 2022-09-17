@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-dada",
+  "version": "1.0.0",
+  "description": "creacion de un paquete para el curso de platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidramirezrivera/random-str-msg-dada.git"
+  },
+  "keywords": [],
+  "author": "david ramirez <davidramirezrivera2511@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidramirezrivera/random-str-msg-dada/issues"
+  },
+  "homepage": "https://github.com/davidramirezrivera/random-str-msg-dada#readme",
+  "bin": {
+    "random-srt-msg-dada": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}

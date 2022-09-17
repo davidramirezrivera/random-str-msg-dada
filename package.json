@@ -1,6 +1,6 @@
 {
   "name": "random-str-msg-dada",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "creacion de un paquete para el curso de platzi",
   "main": "index.js",
   "scripts": {
